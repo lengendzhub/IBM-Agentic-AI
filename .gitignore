@@ -46,3 +46,9 @@ data/*.db
 .idea/
 .DS_Store
 Thumbs.db
+
+# Executables & Installers
+*.exe
+
+# Local Ollama Model Storage
+models_ollama/
