@@ -1,5 +1,13 @@
 # IBM Agentic AI Internship Project Report
 
+**Project Title**: Intelligent HR Equipment Support Assistant Using LangChain and LangGraph  
+**Student Name**: Marimuthu  
+**Institution**: Holycross Engineering College  
+**Register Number**: 95092310429  
+**Domain**: Agentic AI, LangChain, LangGraph, Tools, Memory, SQLite, Human-in-the-Loop, MCP  
+**Submission Date**: September 2026  
+**GitHub Repository**: https://github.com/lengendzhub/IBM-Agentic-AI  
+
 ---
 
 # Project Overview

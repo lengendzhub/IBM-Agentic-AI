@@ -189,8 +189,9 @@ def build_pdf(filename="IBM_Agentic_AI_Project_Report.pdf"):
     story.append(Spacer(1, 10))
     story.append(Paragraph("IBM Agentic AI Internship Project Report", subtitle_style))
     story.append(Paragraph("Intelligent HR Equipment Support Assistant Using LangChain and LangGraph", title_style))
-    story.append(Paragraph("<b>Domain:</b> Multi-Agent Systems, LangChain, LangGraph, Tools, Memory, SQLite, HITL, MCP<br/>"
-                           "<b>Environment:</b> Python 3.11 | Visual Studio Code | Streamlit | SQLite3", meta_style))
+    story.append(Paragraph("<b>Student Name:</b> Marimuthu &nbsp;|&nbsp; <b>Register No:</b> 95092310429 &nbsp;|&nbsp; <b>College:</b> Holycross Engineering College<br/>"
+                           "<b>GitHub Repository:</b> https://github.com/lengendzhub/IBM-Agentic-AI<br/>"
+                           "<b>Domain:</b> Multi-Agent Systems, LangChain, LangGraph, Tools, Memory, SQLite, HITL, MCP", meta_style))
     story.append(HRFlowable(width="100%", thickness=1.5, color=primary_color, spaceAfter=14))
 
     # =========================================================================
