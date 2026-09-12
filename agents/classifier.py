@@ -162,7 +162,7 @@ def _llm_classify(query: str) -> Dict[str, Any]:
             model=OLLAMA_MODEL,
             base_url=OLLAMA_BASE_URL,
             temperature=0.0,
-            timeout=5.0
+            timeout=30.0
         )
 
         template = """You are an HR and IT Equipment Support classifier.
